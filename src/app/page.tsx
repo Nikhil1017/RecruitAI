@@ -1,4 +1,4 @@
-import { Navbar } from '/Components/Components'
+import { Navbar } from './Components/components'
 
 
 export default function Home() {
